@@ -1,0 +1,4 @@
+console
+run-main progscala2.rounding.TryCatch foo/bar
+runMain progscala2.rounding.TryCatch foo/bar
+console
